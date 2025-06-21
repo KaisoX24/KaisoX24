@@ -44,6 +44,6 @@ I'm a developer with a passion for **AI, creative automation, and building real-
 
 ## 📫 Contact & Links
 
-- 🌐 |Email|acharjyapramit@gmail.com|
-      |----|------------------------|
+- 🌐 Email:- acharjyapramit@gmail.com
+      
 ---
