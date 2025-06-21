@@ -44,7 +44,6 @@ I'm a developer with a passion for **AI, creative automation, and building real-
 
 ## 📫 Contact & Links
 
-- 📺 [YouTube: Kaiso Gaming & Tech](https://www.youtube.com/@KaisoGamingTech)
-- 🌐 [GitHub Projects](https://github.com/KaisoX24?tab=repositories)
+- 🌐 [Email](acharjyapramit@gmail.com)
 
 ---
