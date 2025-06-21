@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Kaiso
+# 👋 Hey, I’m Pramit Acharjya
 
 Welcome to my GitHub!  
 I'm a developer with a passion for **AI, creative automation, and building real-world tools** that are both powerful and fun to use.
