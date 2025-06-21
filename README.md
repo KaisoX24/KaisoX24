@@ -22,8 +22,8 @@ Currently preparing for college and pursuing online degrees in **Data Science & 
 
 ## 🧠 Currently Building
 
-- 🧩 **Void Archives** – A meta-LLM system that mimics other LLMs like GPT, Claude, Gemini through prompt persona emulation  
-- 🧪 Exploring: multi-agent chaining, streaming UX, and local LLM optimization
+- **Void Archives** — A meta-LLM that mimics the behavior of other LLMs  
+- Experimenting with **agent chaining**, **prompt control**, and **persona emulation**
 
 ---
 
