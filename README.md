@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Pramit Acharjya
 
 I'm a self-taught AI & software developer with a passion for building **offline LLMs**, **multi-agent AI tools**, and **creative automation systems**.  
-Currently preparing for college and pursuing online degrees in **Data Science & AI** from **IIT Madras** and **IIT Guwahati**.
+Currently studying in (Maulana Abdul Kamlam Azad University of Technology) and pursuing online degrees in **Data Science & AI** from **IIT Guwahati**.
 
 > I believe in shipping cool things that work and I’ve already built over **15 full-stack projects** ranging from AI chatbots to YouTube automation systems.
 
