@@ -48,6 +48,8 @@ Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pu
 ![](https://github-profile-trophy.vercel.app/?username=KaisoX24&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+## 🏆 SKill Badges
+![](https://www.skills.google/public_profiles/0e4da260-c776-4747-aa53-8ba65da86c8e/badges/20029806)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
