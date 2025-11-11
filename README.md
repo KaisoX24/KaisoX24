@@ -49,9 +49,11 @@ Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pu
 
 ---
 ## 🏆 Arcade Badges
+
 <a href="https://www.skills.google/public_profiles/0e4da260-c776-4747-aa53-8ba65da86c8e/badges/20029806">
   <img src="./assets/badges/arcade_nov.png" width="200px">
 </a>
+
 ---
 ## 🏆 Skill Badges
 
