@@ -50,6 +50,10 @@ Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pu
 ---
 ## 🏆 SKill Badges
 [![Google Cloud Level 3 Badge](./assets/badges/arcade_nov.png)](https://www.credly.com/badges/09a67d38-d713-4fea-95a4-ca8f4f0e1841/public_url)
+<a href="https://www.skills.google/public_profiles/0e4da260-c776-4747-aa53-8ba65da86c8e/badges/20029806">
+  <img src=".assets/badges/arcade_nov.png" width="200px">
+</a>
+
 
 
 
