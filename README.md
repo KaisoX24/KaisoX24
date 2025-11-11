@@ -57,8 +57,9 @@ Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pu
 ---
 ## 🏆 Skill Badges
 
-
-
+<a href="https://www.credly.com/badges/efb0c05d-b5bd-4cdc-9667-0ff612b6d87d/public_url">
+  <img src="./assets/badges/assets/badges/prompt-design-in-vertex-ai-skill-badge.png" width="200px">
+</a>
 
 
 ### ✍️ Random Dev Quote
