@@ -49,7 +49,8 @@ Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pu
 
 ---
 ## 🏆 SKill Badges
-![](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="09a67d38-d713-4fea-95a4-ca8f4f0e1841" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+[![Google Cloud Badge](https://images.credly.com/path/to/badge/image.png)](https://www.credly.com/badges/09a67d38-d713-4fea-95a4-ca8f4f0e1841/public_url)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
