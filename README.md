@@ -63,6 +63,9 @@ Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pu
 <a href="https://www.credly.com/badges/5f82e809-845d-405a-99ef-bccd09df43b6/public_url">
   <img src="./assets/badges/analyze-speech-and-language-with-google-apis-skill-.png" width="200px">
 </a>
+<a href="https://www.credly.com/badges/09a67d38-d713-4fea-95a4-ca8f4f0e1841/public_url">
+  <img src="./assets/badges/develop-genai-apps-with-gemini-and-streamlit-skill.png" width="200px">
+</a>
 
 
 ### ✍️ Random Dev Quote
