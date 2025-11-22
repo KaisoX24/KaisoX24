@@ -47,6 +47,7 @@ Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pu
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaisoX24&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ## 🏆 Arcade Badges
