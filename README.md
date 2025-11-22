@@ -40,7 +40,7 @@ Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pu
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KaisoX24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KaisoX24&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaisoX24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
