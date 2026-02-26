@@ -16,7 +16,7 @@ Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pu
 | 📺 [YouTube Playlist Collector](https://github.com/KaisoX24/YouTube-Video-Collector) | Fetch and sort thousands of YouTube videos from multiple channels |
 | 🎬 [YouTube Script Generator](https://github.com/KaisoX24/Youtube-Video-Script-Generator) | 7-section story generator using Grog + LLaMA, with context memory |
 | 🌌 [Youtube Video Downloader (**WEB**)](https://github.com/KaisoX24/Youtube-Video-Downloader) | Streamlit web app for batch YouTube downloads (MP4/MP3) and local video-to-audio conversion |
-| 🦙 [LLaMA from the Hood](https://github.com/KaisoX24/Llama) | A roleplay-heavy LLaMA that speaks in street slang and hood style 😎 |
+| 📚 [AI Notes Summarizer](https://github.com/KaisoX24/AI-Notes-Summarizer) | A Streamlit web app that takes your study notes (PDFs), generates a clear and concise summary, and creates quiz |
 
 ---
 
