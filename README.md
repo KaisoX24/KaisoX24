@@ -7,7 +7,7 @@ Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pu
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -20,7 +20,7 @@ Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pu
 
 ---
 
-## 🧠 Currently Building
+## Currently Building
 
 - **Void Archives** — A meta-LLM that mimics the behavior of other LLMs  
 - Experimenting with **agent chaining**, **prompt control**, and **persona emulation**
@@ -69,7 +69,7 @@ Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pu
 </a>
 
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
