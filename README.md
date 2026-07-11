@@ -13,7 +13,7 @@ Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pu
 | 🌐 [Gemini-Based Multi-AI Site](https://github.com/KaisoX24/GEMINI-BASED-AI) | One-stop interface for PDF, Image, and Chat AI agents |
 | 📺 [YouTube Playlist Collector](https://github.com/KaisoX24/YouTube-Video-Collector) | Fetch and sort thousands of YouTube videos from multiple channels |
 | 🎬 [YouTube Script Generator](https://github.com/KaisoX24/Youtube-Video-Script-Generator) | 7-section story generator using Grog + LLaMA, with context memory |
-| 🌌 [Youtube Video Downloader (**WEB**)](https://github.com/KaisoX24/Youtube-Video-Downloader) | Streamlit web app for batch YouTube downloads (MP4/MP3) and local video-to-audio conversion |
+| 🌌 [Youtube Video Downloader (**WEB**)](https://github.com/KaisoX24/Downloader-BETA-V.git) | Desktop app for downloading Media content (MP4/MP3) over the internet and local video-to-audio conversion |
 | 📚 [AI Notes Summarizer](https://github.com/KaisoX24/AI-Notes-Summarizer) | A Streamlit web app that takes your study notes (PDFs), generates a clear and concise summary, and creates quiz |
 
 ---
