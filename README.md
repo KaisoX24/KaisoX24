@@ -2,6 +2,7 @@
 
 I'm a self-taught AI Engineer I build LLM-powered desktop apps, custom voice assistant pipelines, automation bots, and multi-agent systems.
 Studying at MAKAUT · BSC IT (A.I) 
+
 Currently developing Void Archives — a meta-LLM system that emulates the behavior and tone of frontier AI models.
 
 ---
