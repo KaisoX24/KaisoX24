@@ -1,7 +1,8 @@
 # 👋 Hey, I’m Pramit Acharjya
 
-I'm a self-taught AI & software developer with a passion for building **offline LLMs**, **multi-agent AI tools**, and **creative automation systems**.  
-Currently studying in (Maulana Abdul Kalam Azad University of Technology) and pursuing online degrees in **Data Science & AI** from **IIT Guwahati**.
+I'm a self-taught AI Engineer I build LLM-powered desktop apps, custom voice assistant pipelines, automation bots, and multi-agent systems.
+Studying at MAKAUT · BSC IT (A.I) 
+Currently developing Void Archives — a meta-LLM system that emulates the behavior and tone of frontier AI models.
 
 ---
 
